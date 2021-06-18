@@ -1,11 +1,12 @@
-Lithium integration/staging tree
-================================
-
-http://www.lithium.org
+Litecoin Lithium 
+===============================
+integration/staging tree
+= = = = = = = = = = = = = = = = 
+https://litecoin-host.web.app/
 
 Copyright (c) 2021 Litecoin Lithium Developers
 
-What is Lithium?
+What is Litecoin Lithium?
 ----------------
 
 Lithium is a lite version of Litecoin using scrypt as a proof-of-work algorithm.
@@ -23,8 +24,7 @@ the Lithium client sofware, see http://www.lithium.org.
 License
 -------
 
-Lithium is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
+
 
 Development process
 -------------------
