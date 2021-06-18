@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2021 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Lithium client sofware, see http://www.lithium.org.
+the Lithium client sofware, see https://litecoin-host.web.app/
 
 License
 -------
