@@ -1,5 +1,9 @@
 Litecoin Lithium 
 ===============================
+
+
+![giphy](https://user-images.githubusercontent.com/73909878/124115687-f50dd600-da22-11eb-8d05-0a576a7c218a.gif)
+
 integration/staging tree
 = = = = = = = = = = = = = = = = 
 https://litecoin-host.web.app/
